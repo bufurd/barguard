@@ -1,0 +1,9 @@
+## Interface: 16001
+## Title: Bar Guard
+## Notes: Remembers your action bars per spec and puts them back if a dual-spec bug wipes them. /barguard
+## Author: Bufurd, Claude
+## Version: 1.1
+## SavedVariables: BarGuardDB
+## SavedVariablesPerCharacter: BarGuardCharDB
+
+BarGuard.lua
